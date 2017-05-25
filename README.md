@@ -6,7 +6,7 @@ Collection of useful bash scripts
 * Go to the directory containing the `script-You-Downloaded.sh` file and run it.
 ```bash
 $ sh ./script-You-Downloaded.sh
-``
+```
 
 ## List of scripts
 * `pdfOptimize.sh`: Optimize & compress selected pdf file using Ghostscript
